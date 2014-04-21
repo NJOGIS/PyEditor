@@ -1,12 +1,12 @@
 #PyEditor
 Python Add-In for ArcGIS Desktop ArcMap application. PyEditor is an ArcMap extension that will "listen" for map edit operations (i.e. split, merge, new segment) 
 on a feature class. This is a "stubbed out" version of a complex Add-In that works in conjunction with ESRI's Editor toolbar, and a versioned geodatabase.
-The 'PyEditor.esriaddin' file was developed on ArcGIS Desktop 10.2.1 (Python 2.7.5).
+The `PyEditor.esriaddin` file was developed on ArcGIS Desktop 10.2.1 (Python 2.7.5).
 ##Install
 ###Option 1
 Run `makeaddin.py` to create the `.esriaddin` file. Double-click the `.esriaddin` file to install the Add-In
 ###Option 2
-Double-click the 'PyEditor.esriaddin' file.
+Double-click the `PyEditor.esriaddin` file.
 ###Option 3
 Use the Add-In Manager in ArcMap (Customize menu).
 ##Usage
